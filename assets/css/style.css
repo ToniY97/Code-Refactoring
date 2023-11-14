@@ -41,12 +41,12 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* used to style a attributes*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* used to style p elements*/
 p {
     font-size: 16px;
 }
